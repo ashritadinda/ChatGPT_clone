@@ -1,8 +1,8 @@
-# React + Vite
+This project is a ChatGPT-like interface built with React. It integrates with Hugging Face's transformer models to provide real-time conversational AI responses. The application features dynamic message handling and a responsive user interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used---
+React: For building the user interface.
+JavaScript: Core programming language used.
+CSS: For styling the application.
+Hugging Face API: Provides the backend AI model for generating responses.
+Git: Version control system for managing the codebase.
